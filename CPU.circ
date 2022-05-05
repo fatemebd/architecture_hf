@@ -219,20 +219,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <appear>
-      <path d="M311,82 Q292,141 272,82" fill="none" stroke="#808080" stroke-width="2"/>
-      <rect fill="none" height="270" stroke="#000000" stroke-width="2" width="138" x="221" y="81"/>
-      <circ-port height="8" pin="170,180" width="8" x="216" y="216"/>
-      <circ-port height="10" pin="1150,420" width="10" x="355" y="115"/>
-      <circ-port height="10" pin="1150,480" width="10" x="355" y="145"/>
-      <circ-port height="10" pin="1150,540" width="10" x="355" y="175"/>
-      <circ-port height="10" pin="1150,610" width="10" x="355" y="205"/>
-      <circ-port height="10" pin="1150,680" width="10" x="355" y="235"/>
-      <circ-port height="10" pin="1150,720" width="10" x="355" y="265"/>
-      <circ-port height="10" pin="1150,760" width="10" x="355" y="295"/>
-      <circ-port height="8" pin="1240,830" width="8" x="356" y="326"/>
-      <circ-anchor facing="east" height="6" width="6" x="357" y="117"/>
-    </appear>
     <wire from="(610,320)" to="(610,520)"/>
     <wire from="(800,140)" to="(920,140)"/>
     <wire from="(920,140)" to="(1230,140)"/>
