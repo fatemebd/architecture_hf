@@ -415,14 +415,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
-    <appear>
-      <path d="M185,41 Q199,97 214,41" fill="none" stroke="#808080" stroke-width="2"/>
-      <rect fill="none" height="239" stroke="#000000" stroke-width="2" width="139" x="131" y="41"/>
-      <circ-port height="8" pin="220,320" width="8" x="126" y="96"/>
-      <circ-port height="8" pin="210,370" width="8" x="126" y="196"/>
-      <circ-port height="8" pin="790,240" width="8" x="266" y="146"/>
-      <circ-anchor facing="east" height="6" width="6" x="267" y="147"/>
-    </appear>
     <wire from="(650,390)" to="(650,400)"/>
     <wire from="(630,330)" to="(940,330)"/>
     <wire from="(680,530)" to="(730,530)"/>
