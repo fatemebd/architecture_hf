@@ -67,13 +67,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
     <appear>
-      <path d="M183,60 Q194,97 205,60" fill="none" stroke="#808080" stroke-width="2"/>
-      <rect fill="none" height="122" stroke="#000000" stroke-width="2" width="91" x="150" y="60"/>
-      <circ-port height="8" pin="210,170" width="8" x="146" y="96"/>
-      <circ-port height="8" pin="210,240" width="8" x="146" y="126"/>
-      <circ-port height="8" pin="1090,340" width="8" x="236" y="96"/>
-      <circ-port height="8" pin="970,600" width="8" x="236" y="126"/>
-      <circ-anchor facing="east" height="6" width="6" x="237" y="97"/>
+      <path d="M411,100 Q435,179 457,100" fill="none" stroke="#808080" stroke-width="2"/>
+      <rect fill="none" height="324" stroke="#000000" stroke-width="2" width="199" x="331" y="98"/>
+      <circ-port height="8" pin="210,170" width="8" x="326" y="176"/>
+      <circ-port height="8" pin="210,240" width="8" x="326" y="296"/>
+      <circ-port height="8" pin="1090,340" width="8" x="526" y="166"/>
+      <circ-port height="8" pin="970,600" width="8" x="526" y="296"/>
+      <circ-anchor facing="east" height="6" width="6" x="527" y="167"/>
     </appear>
     <wire from="(780,380)" to="(830,380)"/>
     <wire from="(300,510)" to="(300,580)"/>
